@@ -1,0 +1,4 @@
+{
+    "git.allowForcePush": true,
+    "debug.javascript.autoAttachFilter": "smart"
+}
